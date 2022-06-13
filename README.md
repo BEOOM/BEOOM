@@ -22,6 +22,7 @@
   <a href="https://velog.io/@beom_pie" target="_blank">
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsqja39@gmail.com)](mailto:wnsqja39@gmail.com)
  </div>
 
