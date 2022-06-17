@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=About%20BEOOM&fontSize=70&animation=twinkling)
   
 
-<p>🚀 Tech 🚀</p>
+<p> 🚀 Tech 🚀 </p>
   <br/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -22,6 +22,7 @@
   <a href="https://velog.io/@beom_pie" target="_blank">
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
+    <p>🚀 Contact 🚀 </p>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsqja39@gmail.com)](mailto:wnsqja39@gmail.com)
  </div>
