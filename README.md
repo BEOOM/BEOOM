@@ -16,13 +16,17 @@
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEOOM&show_icons=true&theme=merko)
+    ![Codewars](https://github.r2v.ch/codewars?user=BEOOM&stroke=COLOR)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEOOM&layout=compact)](https://github.com/BEOOM/github-readme-stats)
 
   <a href="https://velog.io/@beom_pie" target="_blank">
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
+  
     <p>🚀 Contact 🚀 </p>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsqja39@gmail.com)](mailto:wnsqja39@gmail.com)
+  
+
  </div>
