@@ -24,7 +24,8 @@
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
   
-    <p>🚀 Contact 🚀 </p>
+  
+<p>🚀 Contact 🚀 </p>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsqja39@gmail.com)](mailto:wnsqja39@gmail.com)
   
